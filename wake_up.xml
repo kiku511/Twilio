@@ -1,9 +1,0 @@
-<Response>
-<Say voice="woman">Good Morning!</Say>
-<Say voice="woman">Vansh automated me to wake you up because you are a lazy ass.</Say>
-<Say voice="woman">It's 9 am and you have loads to do!</Say>
-<Say voice="woman">So let's get up and start the day!</Say>
-<Say voice="woman">I am sending you some fun.</Say>
-<Play>http://demo.twilio.com/docs/classic.mp3</Play>
-<SMS to = "+14255958895" from = "+13522318588">Here's a fun playlist to start your day. https://goo.gl/z4G2Hs</SMS>
-</Response>
